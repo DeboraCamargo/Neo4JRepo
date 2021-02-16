@@ -7,10 +7,17 @@ using Xunit;
 namespace PetAcademyTests
 {
     [Collection("Database collection")]
-    public class PetWithChairTest
+    public class TestPetWithChair
     {
 
-        Crud crud = new Crud();
+        Crud crud;
+        // Don't need to instanciate crud since now fixture shares the connection accross the tests - cool eh?!
+        // If you want a different connection tho, feel free enjoy it
+
+        public TestPetWithChair(DatabaseFixture fixture)
+        {
+            this.crud = fixture.Crud;
+        }
 
         [Fact]
         public async Task SavePetWithChairSuccess()
