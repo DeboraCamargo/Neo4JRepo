@@ -1,0 +1,39 @@
+﻿using PetAcademy;
+using PetAcademy.Models;
+using System;
+using System.Threading.Tasks;
+using Xunit;
+
+namespace PetAcademyTests
+{
+    [Collection("Database collection")]
+    public class PetWithChairTest
+    {
+
+        Crud crud = new Crud();
+
+        [Fact]
+        public async Task SavePetWithChairSuccess()
+        {
+            var petTest = new Animal { Name = "Happy Tails2", Sex = "Female", Specie = "Dog", Color = "White", Breed = "Lhasa Apso", Age = 13 };
+            var chairTest = new Chair { Name = "Doggy beggy eyes", Professor = "snob Kitten Snob" };
+
+            var savedPetInChair = await crud.SavePetWithChair(petTest, chairTest);
+            Assert.Equal(petTest.Name, savedPetInChair.Animal.Name);
+            Assert.Equal(chairTest.Name, savedPetInChair.Chair.Name);
+
+        }
+
+        [Fact]
+        public async Task SavePetWithChairSuccess2()
+        {
+            var petTest = new Animal { Name = "Happy Tails2", Sex = "Female", Specie = "Dog", Color = "White", Breed = "Lhasa Apso", Age = 13 };
+            var chairTest = new Chair { Name = "Doggy beggy eyes", Professor = "snob Kitten Snob" };
+
+            var savedPetInChair = await crud.SavePetWithChair(petTest, chairTest);
+            Assert.Equal(petTest.Name, savedPetInChair.Animal.Name);
+            Assert.Equal(chairTest.Name, savedPetInChair.Chair.Name);
+
+        }
+    }
+}

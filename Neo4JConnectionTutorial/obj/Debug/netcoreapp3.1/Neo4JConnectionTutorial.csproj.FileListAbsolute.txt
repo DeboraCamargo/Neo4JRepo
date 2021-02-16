@@ -1,0 +1,16 @@
+C:\Users\dcamargo\Documents\repo\Neo4JConnectionTutorial\obj\Debug\netcoreapp3.1\Neo4JConnectionTutorial.csprojAssemblyReference.cache
+C:\Users\dcamargo\Documents\repo\Neo4JConnectionTutorial\obj\Debug\netcoreapp3.1\Neo4JConnectionTutorial.AssemblyInfoInputs.cache
+C:\Users\dcamargo\Documents\repo\Neo4JConnectionTutorial\obj\Debug\netcoreapp3.1\Neo4JConnectionTutorial.AssemblyInfo.cs
+C:\Users\dcamargo\Documents\repo\Neo4JConnectionTutorial\obj\Debug\netcoreapp3.1\Neo4JConnectionTutorial.csproj.CoreCompileInputs.cache
+C:\Users\dcamargo\Documents\repo\Neo4JConnectionTutorial\bin\Debug\netcoreapp3.1\Neo4JConnectionTutorial.exe
+C:\Users\dcamargo\Documents\repo\Neo4JConnectionTutorial\bin\Debug\netcoreapp3.1\Neo4JConnectionTutorial.deps.json
+C:\Users\dcamargo\Documents\repo\Neo4JConnectionTutorial\bin\Debug\netcoreapp3.1\Neo4JConnectionTutorial.runtimeconfig.json
+C:\Users\dcamargo\Documents\repo\Neo4JConnectionTutorial\bin\Debug\netcoreapp3.1\Neo4JConnectionTutorial.runtimeconfig.dev.json
+C:\Users\dcamargo\Documents\repo\Neo4JConnectionTutorial\bin\Debug\netcoreapp3.1\Neo4JConnectionTutorial.dll
+C:\Users\dcamargo\Documents\repo\Neo4JConnectionTutorial\bin\Debug\netcoreapp3.1\Neo4JConnectionTutorial.pdb
+C:\Users\dcamargo\Documents\repo\Neo4JConnectionTutorial\bin\Debug\netcoreapp3.1\Neo4j.Driver.dll
+C:\Users\dcamargo\Documents\repo\Neo4JConnectionTutorial\bin\Debug\netcoreapp3.1\Neo4j.Driver.Simple.dll
+C:\Users\dcamargo\Documents\repo\Neo4JConnectionTutorial\obj\Debug\netcoreapp3.1\Neo4JConnectionTutorial.csproj.CopyComplete
+C:\Users\dcamargo\Documents\repo\Neo4JConnectionTutorial\obj\Debug\netcoreapp3.1\Neo4JConnectionTutorial.dll
+C:\Users\dcamargo\Documents\repo\Neo4JConnectionTutorial\obj\Debug\netcoreapp3.1\Neo4JConnectionTutorial.pdb
+C:\Users\dcamargo\Documents\repo\Neo4JConnectionTutorial\obj\Debug\netcoreapp3.1\Neo4JConnectionTutorial.genruntimeconfig.cache
