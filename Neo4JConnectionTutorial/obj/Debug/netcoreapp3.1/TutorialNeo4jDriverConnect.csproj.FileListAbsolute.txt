@@ -1,0 +1,16 @@
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\Neo4JConnectionTutorial\bin\Debug\netcoreapp3.1\TutorialNeo4jDriverConnect.exe
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\Neo4JConnectionTutorial\bin\Debug\netcoreapp3.1\TutorialNeo4jDriverConnect.deps.json
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\Neo4JConnectionTutorial\bin\Debug\netcoreapp3.1\TutorialNeo4jDriverConnect.runtimeconfig.json
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\Neo4JConnectionTutorial\bin\Debug\netcoreapp3.1\TutorialNeo4jDriverConnect.runtimeconfig.dev.json
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\Neo4JConnectionTutorial\bin\Debug\netcoreapp3.1\TutorialNeo4jDriverConnect.dll
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\Neo4JConnectionTutorial\bin\Debug\netcoreapp3.1\TutorialNeo4jDriverConnect.pdb
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\Neo4JConnectionTutorial\bin\Debug\netcoreapp3.1\Neo4j.Driver.dll
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\Neo4JConnectionTutorial\bin\Debug\netcoreapp3.1\Neo4j.Driver.Simple.dll
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\Neo4JConnectionTutorial\obj\Debug\netcoreapp3.1\TutorialNeo4jDriverConnect.csprojAssemblyReference.cache
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\Neo4JConnectionTutorial\obj\Debug\netcoreapp3.1\TutorialNeo4jDriverConnect.AssemblyInfoInputs.cache
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\Neo4JConnectionTutorial\obj\Debug\netcoreapp3.1\TutorialNeo4jDriverConnect.AssemblyInfo.cs
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\Neo4JConnectionTutorial\obj\Debug\netcoreapp3.1\TutorialNeo4jDriverConnect.csproj.CoreCompileInputs.cache
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\Neo4JConnectionTutorial\obj\Debug\netcoreapp3.1\TutorialNeo4jDriverConnect.csproj.CopyComplete
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\Neo4JConnectionTutorial\obj\Debug\netcoreapp3.1\TutorialNeo4jDriverConnect.dll
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\Neo4JConnectionTutorial\obj\Debug\netcoreapp3.1\TutorialNeo4jDriverConnect.pdb
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\Neo4JConnectionTutorial\obj\Debug\netcoreapp3.1\TutorialNeo4jDriverConnect.genruntimeconfig.cache

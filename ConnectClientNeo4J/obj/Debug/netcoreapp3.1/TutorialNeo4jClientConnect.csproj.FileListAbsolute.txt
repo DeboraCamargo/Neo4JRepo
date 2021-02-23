@@ -1,0 +1,17 @@
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\ConnectClientNeo4J\bin\Debug\netcoreapp3.1\TutorialNeo4jClientConnect.exe
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\ConnectClientNeo4J\bin\Debug\netcoreapp3.1\TutorialNeo4jClientConnect.deps.json
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\ConnectClientNeo4J\bin\Debug\netcoreapp3.1\TutorialNeo4jClientConnect.runtimeconfig.json
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\ConnectClientNeo4J\bin\Debug\netcoreapp3.1\TutorialNeo4jClientConnect.runtimeconfig.dev.json
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\ConnectClientNeo4J\bin\Debug\netcoreapp3.1\TutorialNeo4jClientConnect.dll
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\ConnectClientNeo4J\bin\Debug\netcoreapp3.1\TutorialNeo4jClientConnect.pdb
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\ConnectClientNeo4J\bin\Debug\netcoreapp3.1\Neo4j.Driver.dll
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\ConnectClientNeo4J\bin\Debug\netcoreapp3.1\Neo4jClient.dll
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\ConnectClientNeo4J\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\ConnectClientNeo4J\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\ConnectClientNeo4J\obj\Debug\netcoreapp3.1\TutorialNeo4jClientConnect.AssemblyInfoInputs.cache
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\ConnectClientNeo4J\obj\Debug\netcoreapp3.1\TutorialNeo4jClientConnect.AssemblyInfo.cs
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\ConnectClientNeo4J\obj\Debug\netcoreapp3.1\TutorialNeo4jClientConnect.csproj.CoreCompileInputs.cache
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\ConnectClientNeo4J\obj\Debug\netcoreapp3.1\TutorialNeo4jClientConnect.csproj.CopyComplete
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\ConnectClientNeo4J\obj\Debug\netcoreapp3.1\TutorialNeo4jClientConnect.dll
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\ConnectClientNeo4J\obj\Debug\netcoreapp3.1\TutorialNeo4jClientConnect.pdb
+C:\Users\dcamargo\Documents\repo\Neo4JRepo\ConnectClientNeo4J\obj\Debug\netcoreapp3.1\TutorialNeo4jClientConnect.genruntimeconfig.cache
