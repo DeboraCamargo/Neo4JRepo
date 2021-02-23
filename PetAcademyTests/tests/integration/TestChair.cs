@@ -4,7 +4,7 @@ using System;
 using System.Threading.Tasks;
 using Xunit;
 
-namespace PetAcademyTests
+namespace PetAcademyTests.Tests.Integration
 {
     [Collection("Database collection")]
     public class TestChair

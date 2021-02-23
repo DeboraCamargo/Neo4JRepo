@@ -10,11 +10,13 @@ namespace PetAcademy
 {
     public class Crud
     {
-       private GraphClient client;
-        public Crud()
+       private IGraphClient client;
+        public Crud(IGraphClient client)
         {
-            client = new GraphClient(new Uri("http://localhost:7474"), "neo4j", "123");
-            client.ConnectAsync().Wait();
+            //client = new GraphClient(new Uri("http://localhost:7474"), "neo4j", "123");
+            //client.ConnectAsync().Wait();
+
+            this.client = client;
         }
         public async Task<Animal> SavePet (Animal pet)
         {
