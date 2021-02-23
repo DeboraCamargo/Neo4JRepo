@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Xunit;
 
-namespace PetAcademyTests
+namespace PetAcademyTests.Tests.Integration
 {
     [CollectionDefinition("Database collection")]
     public class DatabaseCollection: ICollectionFixture<DatabaseFixture>
